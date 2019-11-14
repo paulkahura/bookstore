@@ -82,7 +82,7 @@ b1=Button(window,text="View all",width=12,command=view_command)
 b1.grid(row=2,column=3)
 
 
-b2=Button(window,text="Search entry",width=12,command=search_command)
+b2=Button(window,text="Search entry list",width=12,command=search_command)
 b2.grid(row=3,column=3)
 
 b3=Button(window,text="Add entry",width=12,command=insert_command)
