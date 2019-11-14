@@ -1,7 +1,7 @@
 from tkinter import *
 import tkinter as Tk
 import sqlite3
-
+#this is a password saving app built with tkinter
 window = Tk()
 
 
